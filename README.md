@@ -25,7 +25,3 @@
 <p align="center">
   <img width="100%" src="https://wakatime.com/share/@a92cb441-4fee-4787-a6a3-131581fa3111/ee87fa35-3d65-463e-b6a9-6f1c60ec0f26.png" />
 </p>
-
-<p align="center">
-  <img src="https://api.daily.dev/devcards/05e9e62011644c1a85136a986dd52158.png?r=vym" width="400"/>
-</p>
